@@ -1,2 +1,4 @@
-package assignment;public class lengthcalculation {
+package assignment;
+
+public class lengthcalculation {
 }
